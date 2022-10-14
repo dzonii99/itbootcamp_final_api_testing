@@ -1,5 +1,3 @@
-Url to the project -> https://documenter.getpostman.com/view/23502761/2s8479ywZW
-
 ## Features
 
 *   Vuetify
@@ -25,3 +23,5 @@ Url to the project -> https://documenter.getpostman.com/view/23502761/2s8479ywZW
 *   Ability to refresh token
 *   JWT Tokens, make requests with a token after login with `Authorization` header with value `Bearer yourToken` where `yourToken` is the **signed and encrypted token** given in the response from the login process.
 *   Chai Assertion Library
+
+Url to the project -> https://documenter.getpostman.com/view/23502761/2s8479ywZW
